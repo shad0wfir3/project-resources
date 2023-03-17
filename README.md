@@ -2,7 +2,7 @@
 
 Welcome to the **Project Resources** repository! This is a collection of Dockerfiles and configuration files for various web development frameworks and software stacks. The purpose of this repository is to serve as a resource dump, making it easy for developers to access and utilize these files in their projects.
 
-![Project Resources Banner](https://www.canva.com/design/DAFddDgyjzA/udEscibHuRSuxEZGqClTWQ/view?utm_content=DAFddDgyjzA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Project Resources Banner](images/banner.png)
 
 ## Supported Software
 
